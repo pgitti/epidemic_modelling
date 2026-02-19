@@ -1,0 +1,13 @@
+# Bytecode and caches
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda environments
+*.conda

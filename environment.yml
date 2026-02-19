@@ -1,0 +1,11 @@
+name: epidemic-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - numpy
+  - pandas
+  - scipy
+  - networkx
+  - matplotlib
+  - pip
